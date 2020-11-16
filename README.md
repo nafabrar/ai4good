@@ -38,7 +38,7 @@ Also a lot of time was spend looking for good datasets. We have looked at housin
 
 ## Accomplishments that we're proud of
 
-Provided visualizations and a tool that members of Centraide and other organizations for social good can use to improve their services and be more informed about how they can prepare themselves to support their communities.
+Provided visualizations https://datastudio.google.com/s/ooaOE-QNrZ8 and a tool that members of Centraide and other organizations for social good can use to improve their services and be more informed about how they can prepare themselves to support their communities.
 
 We produced working model to predict the business statuses based on questionnaire.
 
