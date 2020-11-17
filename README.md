@@ -3,8 +3,6 @@ This was a Hacakthon project for AI4Good. Two models were built based on Centrai
 
 Presentation : https://docs.google.com/presentation/d/1ZrEiKIcTpAlUfM3sfEQqWX1AEPLISoAFgGX0zCcY-fs/edit#slide=id.gab1c3f1510_1_0
 
-Devpost : https://devpost.com/software/star-65cbx1?ref_content=user-portfolio&ref_feature=in_progress
-
 ## Inspiration
 To provide useful solutions we first needed to understand the issues at hand. That mindset drove our team to explore how the status of businesses across Greater Montreal has affected the needs of the citizens that request Centraide's services. Along with the coaching of AI experts gathered at the 2020 Hackathon, we propose a solution to predict future impact of bankruptcy of for-profit and non-for-profits businesses. 
 
