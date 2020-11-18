@@ -26,7 +26,7 @@ Process:
  - Using XGBoost Classifier model
  - Fine tune hyperparameters and feature engineering for better performance
 
-####Model 2
+#### Model 2
 
 We built it using scikit-learn's Randomforest Algorithm.Numeric features were scaled using StandardScaler while categorical features were encoded using one-hot encoding. We build a complete pipeline that takes the raw data, process it and make predictions.
 
