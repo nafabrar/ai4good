@@ -1,7 +1,9 @@
-#  AI4Good Challenge #2-3: Exploring the Impact of COVID-19 & Our Solution
+#  AI4Good Challenge : Exploring the Impact of COVID-19 & Our Solution
 This was a Hacakthon project for AI4Good. Two models were built based on Centraide sponsored call data and Montreal open datasets addressing how public organizations and private businesses can adjust to improve their services in light of the impact of COVID-19.
 
 Presentation : https://docs.google.com/presentation/d/1ZrEiKIcTpAlUfM3sfEQqWX1AEPLISoAFgGX0zCcY-fs/edit#slide=id.gab1c3f1510_1_0
+
+Result: Winner - Most actionable for Montreal
 
 ## Inspiration
 To provide useful solutions we first needed to understand the issues at hand. That mindset drove our team to explore how the status of businesses across Greater Montreal has affected the needs of the citizens that request Centraide's services. Along with the coaching of AI experts gathered at the 2020 Hackathon, we propose a solution to predict future impact of bankruptcy of for-profit and non-for-profits businesses. 
